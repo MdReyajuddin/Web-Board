@@ -10,7 +10,7 @@ django-js-asset==1.2.2
 django-registration-redux==2.7
 django-widget-tweaks==1.4.5
 djangocms-admin-style==1.4.0
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 Faker==2.0.4
 get==2019.4.13
 httplib2==0.17.0
